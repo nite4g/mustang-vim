@@ -7,6 +7,7 @@ published on [deviantART](http://hcalves.deviantart.com/art/Mustang-Vim-Colorsch
 
 ![ScreenShot](http://i.imgur.com/Ejvh7Wt.png)
 
-Modifications:
+Setting:
 
-Underline removed from CursorLine.
+set background=dark
+colorscheme mustang
