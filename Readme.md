@@ -9,4 +9,4 @@ published on [deviantART](http://hcalves.deviantart.com/art/Mustang-Vim-Colorsch
 
 Modifications:
 
-Underline removed from CursorLine
+Underline removed from CursorLine.
