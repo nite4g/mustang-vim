@@ -6,4 +6,4 @@ published on [deviantART](http://hcalves.deviantart.com/art/Mustang-Vim-Colorsch
 
 Modifications:
 
-* Added coloring for NERDTree (best results with the classic NERDTree-layout)
+Underline removed from CursorLine
