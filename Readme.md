@@ -9,6 +9,6 @@ published on [deviantART](http://hcalves.deviantart.com/art/Mustang-Vim-Colorsch
 
 Setting:
 
-set background=dark
+set background=dark 
 colorscheme mustang
 
