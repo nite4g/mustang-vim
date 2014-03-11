@@ -11,3 +11,4 @@ Setting:
 
 set background=dark
 colorscheme mustang
+
